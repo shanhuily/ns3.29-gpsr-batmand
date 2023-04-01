@@ -3,4 +3,4 @@ ns3版本： ns3.29
 简介：
 添加了gpsr模块的ns3，经测试已经调通
 如何使用：
-解压即可使用，scratch文件中有一个manet-routing-compare.cc例子，里面有使用的方式
+解压即可使用，提供了一个manet-routing-compare.cc例子，里面有使用的方式
