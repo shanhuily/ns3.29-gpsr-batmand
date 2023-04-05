@@ -1,6 +1,8 @@
-ns3版本： ns3.29
-运行环境：Ubuntu 18.04.6 LTS
-简介：
-添加了gpsr模块的ns3，经测试已经调通
-如何使用：
-解压即可使用，提供了一个manet-routing-compare.cc例子，里面有使用的方式
+ns3 version： ns3.29
+Operating environment：Ubuntu 18.04.6 LTS
+Brief introduction：
+this is ns3 that has added gpsr module.
+A statement:
+This source file of GPSR routing protocol is modified on the basis of "https://github.com/zuoanzzz/ns3.29-gpsr-batmand". The form of UDP packets is fixed. And the GPSR option is added into the file of "manet-routing-compare.cc". It can run in the environment of NS3.29.
+Usage guidelines：
+Provided a manet-routing-compare.cc example which contain usage methods.
